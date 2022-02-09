@@ -1,6 +1,11 @@
 spring:
   application:
     name: service-provider
+  rabbitmq:
+    host: 192.168.160.128
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:
