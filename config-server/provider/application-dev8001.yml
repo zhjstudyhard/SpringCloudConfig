@@ -13,7 +13,7 @@ eureka:
 server:
   port: 8001
 config:
-  info: config8001-2
+  info: config8001-3
 # 暴露监控端点
 management:
   endpoints:
