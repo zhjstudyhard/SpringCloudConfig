@@ -25,3 +25,5 @@ ribbon:
 feign:
   hystrix:
     enabled: true
+config:
+  info: config8080
